@@ -1,4 +1,9 @@
-### Bad Design Example
+---
+layout: post
+title: Bad Design Example
+subtitle: Bad Design on Campus
+gh-repo: michaela012/michaela012.github.io
+---
 
 ![bad design 1](bad_1.JPG)
 ![bad design 2](bad_2.JPG)
