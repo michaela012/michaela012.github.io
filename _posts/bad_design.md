@@ -1,7 +1,7 @@
 ### Bad Design Example
 
-image: bad_1.JPG
-image: bad_2.JPG
+![](bad_1.JPG)
+![](bad_2.JPG)
 
 These photos, featuring a feeble attempt at marking the building entrance for accessibility, were taken outside of Mission, a dining hall and freshman dorm. 
 
