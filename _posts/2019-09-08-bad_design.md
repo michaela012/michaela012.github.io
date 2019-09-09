@@ -5,8 +5,8 @@ subtitle: Bad Design on Campus
 gh-repo: michaela012/michaela012.github.io
 ---
 
-![bad design 1](bad_1.JPG)
-![bad design 2](bad_2.JPG)
+![bad design 1](/img/bad_1.JPG)
+![bad design 2](/img/bad_2.JPG)
 
 
 These photos, featuring a feeble attempt at marking the building entrance for accessibility, were taken outside of Mission, a dining hall and freshman dorm. 
