@@ -14,4 +14,4 @@ My proposal is an app focused on connecting people with groups of others who hav
 # Use Cases
 Figure 1 shows a writers group website, taken from Morningside Writers webpage(url <https://www.morningsidewriters.com/html/screenwriting.html>). This is one of the first pages that appear when searching for a writers group. However, this website doesn't tell the user what the writing group is like, or give a very clear sense of whether it may be a good fit, as it feels impersonal. This, however, is seemingly a more established/ institutionalized writer's group; perhaps the tone conveyed by the site is appropriate for the demographic they are trying to attract. In that case, it would not be a good fit for someone looking for a more casual, community of writers. How could one find such a group, when those communities are not as likely to show up as the result of a google search? An app like this would give both a way for smaller groups to make themselves discoverable, and a way to show what the environment of the group is like (thus benefitting both the group and the potential member). 
 
-![](/img/writersgroup.JPG)
+![](/img/writersgroup.jpg)
